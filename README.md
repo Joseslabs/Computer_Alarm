@@ -1,7 +1,7 @@
 # Computer_Alarm
 
 Hello dear user, how are you? Well I hope so.
-You often want to create alarm reminders directly on your computer without much success or you just want to
+You are a Linux user and often want to create alarm reminders directly on your computer without much success or you just want to
 have an app that lets you set alarms on your computer?
 Don't worry anymore, this tool that I bring here is intended to offer Linux users a complete alarm application
 very optimal in resource usage, offering graphic rendering and fully managed from the terminal.
@@ -35,7 +35,7 @@ And it's done, you have installed this tool on your computer. Enjoy it, thank yo
 
 
 Salut cher utilisateur, comment allez-vous ? Bien j'espère. 
-Vous souhaitez souvent créer des rappels des alarmes directement sur votre ordinateur sans grand succès ou vous souhaitez juste
+Vous êtes un utilisateur de Linux et vous souhaitez souvent créer des rappels des alarmes directement sur votre ordinateur sans grand succès ou vous souhaitez juste
 avoir une application qui vous permette de régler des alarmes sur votre ordinateur ? 
 Ne vous inquiétez plus, cet outil que j'apporte ici est destiné à offrir aux utilisateurs de Linux une application d'alarme complète 
 très optimale en utilisation de ressources, offrant un rendu graphique et entièrement géré à partir du terminal.
